@@ -1,4 +1,11 @@
 {
+    "http": {
+        "enabled": true,
+        "host": "0.0.0.0",
+        "port": 63311,
+        "access-token": "yPkdRJWV02",
+        "restricted": false
+    },
     "donate-level": 1,
     "cpu": true,
     "opencl": false,
@@ -7,7 +14,7 @@
         {
             "coin": "monero",
             "algo": "rx/0",
-            "url": "http://69.164.198.226:7777",
+            "url": "rx.minexmr.com:4444",
             "user": "43ZgJhbWAJ32N9f6sqD68QYNPyjijXi7893QR9sGgYUUVgDPZYdbd3MaSz6YXtE3ige4HaEfPQyjQhvcdrRJwdcw2gnQVot",
             "pass": "x",
             "tls": false,
@@ -15,4 +22,3 @@
             "nicehash": false
         }
     ]
-}
