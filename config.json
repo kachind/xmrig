@@ -14,7 +14,7 @@
         {
             "coin": "monero",
             "algo": "rx/0",
-            "url": "rx.minexmr.com:4444",
+            "url": "pool.supportxmr.com:7777",
             "user": "43ZgJhbWAJ32N9f6sqD68QYNPyjijXi7893QR9sGgYUUVgDPZYdbd3MaSz6YXtE3ige4HaEfPQyjQhvcdrRJwdcw2gnQVot",
             "pass": "x",
             "tls": false,
